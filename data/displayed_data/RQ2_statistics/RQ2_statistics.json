@@ -1,0 +1,5294 @@
+{
+  "DO": {
+    "v1": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 5.597384093946256e-06,
+          "whether_significant": true,
+          "A12": 0.9175,
+          "scaled_A12": 0.835,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0850639485789312e-06,
+          "whether_significant": true,
+          "A12": 0.9475,
+          "scaled_A12": 0.895,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.47889482589687793,
+          "whether_significant": false,
+          "A12": 0.565,
+          "scaled_A12": 0.1299999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.21822112256097792,
+          "whether_significant": false,
+          "A12": 0.605,
+          "scaled_A12": 0.20999999999999996,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.005286061084960559,
+          "whether_significant": true,
+          "A12": 0.725,
+          "scaled_A12": 0.44999999999999996,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 5.628526108353648e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.57183836694708e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 4.4000668400158584e-05,
+          "whether_significant": true,
+          "A12": 0.8625,
+          "scaled_A12": 0.7250000000000001,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.001220014183220067,
+          "whether_significant": true,
+          "A12": 0.79,
+          "scaled_A12": 0.5800000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.2626672341920433,
+          "whether_significant": false,
+          "A12": 0.4025,
+          "scaled_A12": -0.19499999999999995,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.008190512721199793,
+          "whether_significant": true,
+          "A12": 0.73125,
+          "scaled_A12": 0.4624999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(M)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 8.904969206384897e-05,
+          "whether_significant": true,
+          "A12": 0.8375,
+          "scaled_A12": 0.675,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 5.188754590569696e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.4975350790016324e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.011442683051579918,
+          "whether_significant": true,
+          "A12": 0.715,
+          "scaled_A12": 0.42999999999999994,
+          "which_better": "STSQ",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.0018303650550397655,
+          "whether_significant": true,
+          "A12": 0.7675,
+          "scaled_A12": 0.5349999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.40635884686765456,
+          "whether_significant": false,
+          "A12": 0.57,
+          "scaled_A12": 0.1399999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.0003625938237382829,
+          "whether_significant": true,
+          "A12": 0.8175,
+          "scaled_A12": 0.635,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.008741002648135689,
+          "whether_significant": true,
+          "A12": 0.725,
+          "scaled_A12": 0.44999999999999996,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 3.6362510303633044e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.524363825016948e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v2": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.3482733429348527,
+          "whether_significant": false,
+          "A12": 0.4175,
+          "scaled_A12": -0.16500000000000004,
+          "which_better": "STFQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.6921199319709659,
+          "whether_significant": false,
+          "A12": 0.53625,
+          "scaled_A12": 0.07250000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.1864986658468475,
+          "whether_significant": false,
+          "A12": 0.61625,
+          "scaled_A12": 0.23249999999999993,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.47092916244016314,
+          "whether_significant": false,
+          "A12": 0.56625,
+          "scaled_A12": 0.13250000000000006,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.015221058202356497,
+          "whether_significant": true,
+          "A12": 0.28875,
+          "scaled_A12": -0.4225,
+          "which_better": "CrsEnt",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.836470145208045,
+          "whether_significant": false,
+          "A12": 0.48,
+          "scaled_A12": -0.040000000000000036,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.004151613762685524,
+          "whether_significant": true,
+          "A12": 0.76125,
+          "scaled_A12": 0.5225,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.5940953107017335,
+          "whether_significant": false,
+          "A12": 0.54875,
+          "scaled_A12": 0.09749999999999992,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.44393689722199603,
+          "whether_significant": false,
+          "A12": 0.56875,
+          "scaled_A12": 0.13749999999999996,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.8776220631097332,
+          "whether_significant": false,
+          "A12": 0.515,
+          "scaled_A12": 0.030000000000000027,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.7434746749933678,
+          "whether_significant": false,
+          "A12": 0.53,
+          "scaled_A12": 0.06000000000000005,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.317546266160906,
+          "whether_significant": false,
+          "A12": 0.5875,
+          "scaled_A12": 0.17500000000000004,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.2318014360572247,
+          "whether_significant": false,
+          "A12": 0.61,
+          "scaled_A12": 0.21999999999999997,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.006348659486607411,
+          "whether_significant": true,
+          "A12": 0.7475,
+          "scaled_A12": 0.4950000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.6845478283205435,
+          "whether_significant": false,
+          "A12": 0.5375,
+          "scaled_A12": 0.07499999999999996,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.29616252487323624,
+          "whether_significant": false,
+          "A12": 0.59375,
+          "scaled_A12": 0.1875,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.5071032266093489,
+          "whether_significant": false,
+          "A12": 0.56,
+          "scaled_A12": 0.1200000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.047722162666585265,
+          "whether_significant": true,
+          "A12": 0.32,
+          "scaled_A12": -0.36,
+          "which_better": "ChiTest",
+          "maginitude": "(M)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.09436236894493139,
+          "whether_significant": false,
+          "A12": 0.65,
+          "scaled_A12": 0.30000000000000004,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.0005631849636225704,
+          "whether_significant": true,
+          "A12": 0.815,
+          "scaled_A12": 0.6299999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.0013166115197239658,
+          "whether_significant": true,
+          "A12": 0.7925,
+          "scaled_A12": 0.585,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v3": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.0002625901774146991,
+          "whether_significant": true,
+          "A12": 0.77875,
+          "scaled_A12": 0.5575000000000001,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.0002625901774146991,
+          "whether_significant": true,
+          "A12": 0.77875,
+          "scaled_A12": 0.5575000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.016024341819981892,
+          "whether_significant": true,
+          "A12": 0.71625,
+          "scaled_A12": 0.4325000000000001,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(M)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 9.537301969487087e-05,
+          "whether_significant": true,
+          "A12": 0.825,
+          "scaled_A12": 0.6499999999999999,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0972180210668011e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.032989589591479e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.1800610631568249,
+          "whether_significant": false,
+          "A12": 0.37875,
+          "scaled_A12": -0.24250000000000005,
+          "which_better": "ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.051085202954522464,
+          "whether_significant": false,
+          "A12": 0.66875,
+          "scaled_A12": 0.3374999999999999,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.703396767954026e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 7.4516862859249e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.049786943745741,
+          "whether_significant": true,
+          "A12": 0.68,
+          "scaled_A12": 0.3600000000000001,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(M)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.0867926676143126,
+          "whether_significant": false,
+          "A12": 0.63875,
+          "scaled_A12": 0.2775000000000001,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.369415789147887e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 7.383071448404196e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v4": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.3955170471770829,
+          "whether_significant": false,
+          "A12": 0.5775,
+          "scaled_A12": 0.15500000000000003,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.6311601480977466,
+          "whether_significant": false,
+          "A12": 0.54375,
+          "scaled_A12": 0.08749999999999991,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.7307560631025354,
+          "whether_significant": false,
+          "A12": 0.46875,
+          "scaled_A12": -0.0625,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 5.167472189181407e-08,
+          "whether_significant": true,
+          "A12": 0.97125,
+          "scaled_A12": 0.9424999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 3.153368487474118e-06,
+          "whether_significant": true,
+          "A12": 0.875,
+          "scaled_A12": 0.75,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 4.8716914989138994e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.7021780012963335e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.8218713778164519,
+          "whether_significant": false,
+          "A12": 0.485,
+          "scaled_A12": -0.030000000000000027,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.5880048719200537,
+          "whether_significant": false,
+          "A12": 0.53,
+          "scaled_A12": 0.06000000000000005,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.39387408059256734,
+          "whether_significant": false,
+          "A12": 0.55,
+          "scaled_A12": 0.10000000000000009,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 2.354514743276963e-08,
+          "whether_significant": true,
+          "A12": 0.99625,
+          "scaled_A12": 0.9924999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 6.349154242364961e-07,
+          "whether_significant": true,
+          "A12": 0.92,
+          "scaled_A12": 0.8400000000000001,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.4467323728360303e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.3436802311064718e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 3.878900725534671e-08,
+          "whether_significant": true,
+          "A12": 0.99875,
+          "scaled_A12": 0.9975,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 6.879439401235005e-06,
+          "whether_significant": true,
+          "A12": 0.875,
+          "scaled_A12": 0.75,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.506983910593944e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 7.703396767954026e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v5": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.00024962233047938156,
+          "whether_significant": true,
+          "A12": 0.83125,
+          "scaled_A12": 0.6625000000000001,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 3.327085961435431e-05,
+          "whether_significant": true,
+          "A12": 0.87125,
+          "scaled_A12": 0.7424999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.11669261737392853,
+          "whether_significant": false,
+          "A12": 0.6425,
+          "scaled_A12": 0.2849999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.8330132683463989,
+          "whether_significant": false,
+          "A12": 0.52,
+          "scaled_A12": 0.040000000000000036,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 4.2942749880316305e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.411297622943926e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.00841545873800215,
+          "whether_significant": true,
+          "A12": 0.70375,
+          "scaled_A12": 0.4075,
+          "which_better": "STSQ",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.00841545873800215,
+          "whether_significant": true,
+          "A12": 0.70375,
+          "scaled_A12": 0.4075,
+          "which_better": "DOSS",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.29999411867887604,
+          "whether_significant": false,
+          "A12": 0.59625,
+          "scaled_A12": 0.1924999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.5511496705435056,
+          "whether_significant": false,
+          "A12": 0.445,
+          "scaled_A12": -0.10999999999999999,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.8970828541927266e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.8814312498366935e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.08415196839164857,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.08415196839164857,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.4776445771817738,
+          "whether_significant": false,
+          "A12": 0.56625,
+          "scaled_A12": 0.13250000000000006,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.000409456710115741,
+          "whether_significant": true,
+          "A12": 0.82125,
+          "scaled_A12": 0.6425000000000001,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0875570226180134e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0609044692103092e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    }
+  },
+  "IC": {
+    "v1": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.8376088228269971,
+          "whether_significant": false,
+          "A12": 0.48,
+          "scaled_A12": -0.040000000000000036,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 4.524363825016948e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0797105228303045e-07,
+          "whether_significant": true,
+          "A12": 0.985,
+          "scaled_A12": 0.97,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.5933388905209449,
+          "whether_significant": false,
+          "A12": 0.45,
+          "scaled_A12": -0.09999999999999998,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.49913884761333205,
+          "whether_significant": false,
+          "A12": 0.4425,
+          "scaled_A12": -0.11499999999999999,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 4.510932054605711e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.7777962540894088,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.33993147058151474,
+          "whether_significant": false,
+          "A12": 0.415,
+          "scaled_A12": -0.17000000000000004,
+          "which_better": "STFQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 9.574475738486921e-05,
+          "whether_significant": true,
+          "A12": 0.805,
+          "scaled_A12": 0.6100000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 2.9551102768405377e-05,
+          "whether_significant": true,
+          "A12": 0.835,
+          "scaled_A12": 0.6699999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.9091531926652627,
+          "whether_significant": false,
+          "A12": 0.48875,
+          "scaled_A12": -0.022499999999999964,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 2.628470910479832e-07,
+          "whether_significant": true,
+          "A12": 0.9375,
+          "scaled_A12": 0.875,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.1543906819279709,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.004294336884693755,
+          "whether_significant": true,
+          "A12": 0.675,
+          "scaled_A12": 0.3500000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.08035854543106315,
+          "whether_significant": false,
+          "A12": 0.575,
+          "scaled_A12": 0.1499999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.807737680841023,
+          "whether_significant": false,
+          "A12": 0.52125,
+          "scaled_A12": 0.04249999999999998,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.002041915011870219,
+          "whether_significant": true,
+          "A12": 0.7,
+          "scaled_A12": 0.3999999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v2": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.805889706699258,
+          "whether_significant": false,
+          "A12": 0.47625,
+          "scaled_A12": -0.04749999999999999,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.7992007396666906e-07,
+          "whether_significant": true,
+          "A12": 0.97875,
+          "scaled_A12": 0.9575,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 8.947371815309025e-08,
+          "whether_significant": true,
+          "A12": 0.99125,
+          "scaled_A12": 0.9824999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.6322300229716169,
+          "whether_significant": false,
+          "A12": 0.545,
+          "scaled_A12": 0.09000000000000008,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.9407859388499946,
+          "whether_significant": false,
+          "A12": 0.5075,
+          "scaled_A12": 0.014999999999999902,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 5.150986500880816e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.47513178276476864,
+          "whether_significant": false,
+          "A12": 0.4375,
+          "scaled_A12": -0.125,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.8862551169131595,
+          "whether_significant": false,
+          "A12": 0.51375,
+          "scaled_A12": 0.02750000000000008,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 2.6079261980411947e-07,
+          "whether_significant": true,
+          "A12": 0.925,
+          "scaled_A12": 0.8500000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 2.903930387213366e-06,
+          "whether_significant": true,
+          "A12": 0.875,
+          "scaled_A12": 0.75,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.7455686357839986,
+          "whether_significant": false,
+          "A12": 0.47,
+          "scaled_A12": -0.06000000000000005,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 8.848372079853204e-08,
+          "whether_significant": true,
+          "A12": 0.95,
+          "scaled_A12": 0.8999999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.44659188702413,
+          "whether_significant": false,
+          "A12": 0.55,
+          "scaled_A12": 0.10000000000000009,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.019450444016954928,
+          "whether_significant": true,
+          "A12": 0.625,
+          "scaled_A12": 0.25,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.08035854543106315,
+          "whether_significant": false,
+          "A12": 0.575,
+          "scaled_A12": 0.1499999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.4962025299714251,
+          "whether_significant": false,
+          "A12": 0.45125,
+          "scaled_A12": -0.09750000000000003,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.009409864199244939,
+          "whether_significant": true,
+          "A12": 0.65,
+          "scaled_A12": 0.30000000000000004,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v3": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.004484786614477985,
+          "whether_significant": true,
+          "A12": 0.675,
+          "scaled_A12": 0.3500000000000001,
+          "which_better": "STSQ",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.004484786614477985,
+          "whether_significant": true,
+          "A12": 0.675,
+          "scaled_A12": 0.3500000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v4": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.0011164051298474043,
+          "whether_significant": true,
+          "A12": 0.79875,
+          "scaled_A12": 0.5974999999999999,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 3.684285723223563e-07,
+          "whether_significant": true,
+          "A12": 0.9675,
+          "scaled_A12": 0.935,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.0010737964974933188,
+          "whether_significant": true,
+          "A12": 0.8,
+          "scaled_A12": 0.6000000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.7060817412140714,
+          "whether_significant": false,
+          "A12": 0.52125,
+          "scaled_A12": 0.04249999999999998,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.35600776777403,
+          "whether_significant": false,
+          "A12": 0.415,
+          "scaled_A12": -0.17000000000000004,
+          "which_better": "CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.7602492777953065e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.9671410608057137,
+          "whether_significant": false,
+          "A12": 0.505,
+          "scaled_A12": 0.010000000000000009,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.028033825028294945,
+          "whether_significant": true,
+          "A12": 0.70125,
+          "scaled_A12": 0.4025000000000001,
+          "which_better": "STSQ",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 8.421992597971366e-08,
+          "whether_significant": true,
+          "A12": 0.99375,
+          "scaled_A12": 0.9875,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 3.454792984603795e-06,
+          "whether_significant": true,
+          "A12": 0.9275,
+          "scaled_A12": 0.855,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.7960744622444829,
+          "whether_significant": false,
+          "A12": 0.47625,
+          "scaled_A12": -0.04749999999999999,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.5254689530890461,
+          "whether_significant": false,
+          "A12": 0.55875,
+          "scaled_A12": 0.11749999999999994,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 5.0169970869948566e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.922546865661951,
+          "whether_significant": false,
+          "A12": 0.49,
+          "scaled_A12": -0.020000000000000018,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.009874714220991301,
+          "whether_significant": true,
+          "A12": 0.7375,
+          "scaled_A12": 0.4750000000000001,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 5.039695160982737e-07,
+          "whether_significant": true,
+          "A12": 0.9625,
+          "scaled_A12": 0.925,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.4932418966775337e-05,
+          "whether_significant": true,
+          "A12": 0.8975,
+          "scaled_A12": 0.7949999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.5146970728558851,
+          "whether_significant": false,
+          "A12": 0.55875,
+          "scaled_A12": 0.11749999999999994,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.6380648102783428,
+          "whether_significant": false,
+          "A12": 0.54375,
+          "scaled_A12": 0.08749999999999991,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 5.203929236529717e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.988901707030516,
+          "whether_significant": false,
+          "A12": 0.4975,
+          "scaled_A12": -0.0050000000000000044,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v5": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 3.2082945946816634e-05,
+          "whether_significant": true,
+          "A12": 0.8325,
+          "scaled_A12": 0.665,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 8.197566377504949e-06,
+          "whether_significant": true,
+          "A12": 0.85,
+          "scaled_A12": 0.7,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.0006919291547736672,
+          "whether_significant": true,
+          "A12": 0.20625,
+          "scaled_A12": -0.5875,
+          "which_better": "ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 2.637729271241119e-07,
+          "whether_significant": true,
+          "A12": 0.925,
+          "scaled_A12": 0.8500000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    }
+  },
+  "LAF": {
+    "v1": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.2575705099366076,
+          "whether_significant": false,
+          "A12": 0.5975,
+          "scaled_A12": 0.19500000000000006,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.8517456511514829,
+          "whether_significant": false,
+          "A12": 0.5175,
+          "scaled_A12": 0.03499999999999992,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.28097544001668706,
+          "whether_significant": false,
+          "A12": 0.4075,
+          "scaled_A12": -0.18500000000000005,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.816346369083181,
+          "whether_significant": false,
+          "A12": 0.5225,
+          "scaled_A12": 0.04499999999999993,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.7742992728419851,
+          "whether_significant": false,
+          "A12": 0.5275,
+          "scaled_A12": 0.05499999999999994,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 5.120944689983144e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.0910556439921996e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.7317576869089923,
+          "whether_significant": false,
+          "A12": 0.5325,
+          "scaled_A12": 0.06499999999999995,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.8806874250517586,
+          "whether_significant": false,
+          "A12": 0.515,
+          "scaled_A12": 0.030000000000000027,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.4104499801006485e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 7.746072058664627e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.35956055661389386,
+          "whether_significant": false,
+          "A12": 0.585,
+          "scaled_A12": 0.16999999999999993,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.795511067264146,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.437918340567254e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 7.47928986588392e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v2": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.5783857483537465,
+          "whether_significant": false,
+          "A12": 0.45125,
+          "scaled_A12": -0.09750000000000003,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.566233488956938,
+          "whether_significant": false,
+          "A12": 0.54875,
+          "scaled_A12": 0.09749999999999992,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.21192408735072055,
+          "whether_significant": false,
+          "A12": 0.60625,
+          "scaled_A12": 0.2124999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.4790913220255605,
+          "whether_significant": false,
+          "A12": 0.56625,
+          "scaled_A12": 0.13250000000000006,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.46089041914557594,
+          "whether_significant": false,
+          "A12": 0.5675,
+          "scaled_A12": 0.135,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 4.2686409922723405e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.049979588934276e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.22046284489848655,
+          "whether_significant": false,
+          "A12": 0.6125,
+          "scaled_A12": 0.2250000000000001,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.7939675662872603,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0348301961792195e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0165537710394318e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.8591367897234902,
+          "whether_significant": false,
+          "A12": 0.5175,
+          "scaled_A12": 0.03499999999999992,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.4250922452806498,
+          "whether_significant": false,
+          "A12": 0.42625,
+          "scaled_A12": -0.14749999999999996,
+          "which_better": "CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.703396767954026e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 7.520864937029625e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v3": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.9110059183025246,
+          "whether_significant": false,
+          "A12": 0.51125,
+          "scaled_A12": 0.022499999999999964,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.6869386132081203,
+          "whether_significant": false,
+          "A12": 0.4625,
+          "scaled_A12": -0.07499999999999996,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.5866790441184204,
+          "whether_significant": false,
+          "A12": 0.45,
+          "scaled_A12": -0.09999999999999998,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.4491478371391622,
+          "whether_significant": false,
+          "A12": 0.56875,
+          "scaled_A12": 0.13749999999999996,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.33675587448831645,
+          "whether_significant": false,
+          "A12": 0.58875,
+          "scaled_A12": 0.1775,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.16951499613994625,
+          "whether_significant": false,
+          "A12": 0.375,
+          "scaled_A12": -0.25,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.9536403698134604e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.7277666039470401,
+          "whether_significant": false,
+          "A12": 0.5325,
+          "scaled_A12": 0.06499999999999995,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.7775637961582709,
+          "whether_significant": false,
+          "A12": 0.47375,
+          "scaled_A12": -0.05249999999999999,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.4962990969993648,
+          "whether_significant": false,
+          "A12": 0.43875,
+          "scaled_A12": -0.12250000000000005,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.6285175508872569,
+          "whether_significant": false,
+          "A12": 0.545,
+          "scaled_A12": 0.09000000000000008,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.3665235126270546,
+          "whether_significant": false,
+          "A12": 0.58375,
+          "scaled_A12": 0.16749999999999998,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.6041677079874669,
+          "whether_significant": false,
+          "A12": 0.5475,
+          "scaled_A12": 0.09499999999999997,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.031733231685251e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.8047200301030015,
+          "whether_significant": false,
+          "A12": 0.4775,
+          "scaled_A12": -0.04500000000000004,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.33686120242313833,
+          "whether_significant": false,
+          "A12": 0.58625,
+          "scaled_A12": 0.1725000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.0886188763869097,
+          "whether_significant": false,
+          "A12": 0.64875,
+          "scaled_A12": 0.2975000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.4806894365501517,
+          "whether_significant": false,
+          "A12": 0.565,
+          "scaled_A12": 0.1299999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.20587023780132252,
+          "whether_significant": false,
+          "A12": 0.61625,
+          "scaled_A12": 0.23249999999999993,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.2739446967467739,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.9730140560609915e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v4": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.43349424857940677,
+          "whether_significant": false,
+          "A12": 0.565,
+          "scaled_A12": 0.1299999999999999,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.35725494772854693,
+          "whether_significant": false,
+          "A12": 0.42,
+          "scaled_A12": -0.16000000000000003,
+          "which_better": "STFQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.1508847298786216,
+          "whether_significant": false,
+          "A12": 0.37875,
+          "scaled_A12": -0.24250000000000005,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.494247020365546,
+          "whether_significant": false,
+          "A12": 0.56375,
+          "scaled_A12": 0.12749999999999995,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.9890574836759708,
+          "whether_significant": false,
+          "A12": 0.5025,
+          "scaled_A12": 0.004999999999999893,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 5.1434616905797334e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.242035099626203e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.16258685072635493,
+          "whether_significant": false,
+          "A12": 0.55,
+          "scaled_A12": 0.10000000000000009,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.5939546753269144,
+          "whether_significant": false,
+          "A12": 0.52375,
+          "scaled_A12": 0.0475000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.7945407906618688,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.9130780817762254,
+          "whether_significant": false,
+          "A12": 0.51125,
+          "scaled_A12": 0.022499999999999964,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0403694027659204e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0856338580956514e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.08476752810154072,
+          "whether_significant": false,
+          "A12": 0.65875,
+          "scaled_A12": 0.3174999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.3176699990480282,
+          "whether_significant": false,
+          "A12": 0.4075,
+          "scaled_A12": -0.18500000000000005,
+          "which_better": "CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.618669854504885e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 7.47928986588392e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v5": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.688497812660399,
+          "whether_significant": false,
+          "A12": 0.5375,
+          "scaled_A12": 0.07499999999999996,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.22562433104491642,
+          "whether_significant": false,
+          "A12": 0.61125,
+          "scaled_A12": 0.22249999999999992,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.4733182329631096,
+          "whether_significant": false,
+          "A12": 0.56625,
+          "scaled_A12": 0.13250000000000006,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.17594767746415108,
+          "whether_significant": false,
+          "A12": 0.375,
+          "scaled_A12": -0.25,
+          "which_better": "ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.7086513719033768,
+          "whether_significant": false,
+          "A12": 0.465,
+          "scaled_A12": -0.06999999999999995,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 8.303231860015924e-05,
+          "whether_significant": true,
+          "A12": 0.86125,
+          "scaled_A12": 0.7224999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.936578995507123e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.5858718854695448,
+          "whether_significant": false,
+          "A12": 0.45125,
+          "scaled_A12": -0.09750000000000003,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.6118543579291049,
+          "whether_significant": false,
+          "A12": 0.45375,
+          "scaled_A12": -0.09250000000000003,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.8743274399222642,
+          "whether_significant": false,
+          "A12": 0.485,
+          "scaled_A12": -0.030000000000000027,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.9890532594388249,
+          "whether_significant": false,
+          "A12": 0.4975,
+          "scaled_A12": -0.0050000000000000044,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.9344294881279289,
+          "whether_significant": false,
+          "A12": 0.50875,
+          "scaled_A12": 0.01750000000000007,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.0036705935861868423,
+          "whether_significant": true,
+          "A12": 0.76625,
+          "scaled_A12": 0.5325,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.2115310458062686e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.31003609601614435,
+          "whether_significant": false,
+          "A12": 0.58875,
+          "scaled_A12": 0.1775,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.7847941296161067,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.4512473040319225,
+          "whether_significant": false,
+          "A12": 0.43375,
+          "scaled_A12": -0.13249999999999995,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.7384985581661334,
+          "whether_significant": false,
+          "A12": 0.53125,
+          "scaled_A12": 0.0625,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.585393240021688,
+          "whether_significant": false,
+          "A12": 0.55125,
+          "scaled_A12": 0.10250000000000004,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.416275875909506e-07,
+          "whether_significant": true,
+          "A12": 0.955,
+          "scaled_A12": 0.9099999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.196337088228443e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    }
+  },
+  "LPR": {
+    "v1": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.5459555480256849,
+          "whether_significant": false,
+          "A12": 0.44375,
+          "scaled_A12": -0.11250000000000004,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.761900666240562,
+          "whether_significant": false,
+          "A12": 0.47125,
+          "scaled_A12": -0.057499999999999996,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.7119139100167324,
+          "whether_significant": false,
+          "A12": 0.535,
+          "scaled_A12": 0.07000000000000006,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.3957844133443613,
+          "whether_significant": false,
+          "A12": 0.42125,
+          "scaled_A12": -0.15749999999999997,
+          "which_better": "ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.50125,
+          "scaled_A12": 0.0024999999999999467,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.013691585452885e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 3.915980490888013e-07,
+          "whether_significant": true,
+          "A12": 0.9675,
+          "scaled_A12": 0.935,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.24243472752396955,
+          "whether_significant": false,
+          "A12": 0.3925,
+          "scaled_A12": -0.21499999999999997,
+          "which_better": "STFQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.5516197266655206,
+          "whether_significant": false,
+          "A12": 0.555,
+          "scaled_A12": 0.1100000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.10697043220677568,
+          "whether_significant": false,
+          "A12": 0.6475,
+          "scaled_A12": 0.29499999999999993,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.6145075360737231,
+          "whether_significant": false,
+          "A12": 0.4525,
+          "scaled_A12": -0.09499999999999997,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.18213634106948584,
+          "whether_significant": false,
+          "A12": 0.3775,
+          "scaled_A12": -0.245,
+          "which_better": "CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.73454942943721e-08,
+          "whether_significant": true,
+          "A12": 0.99625,
+          "scaled_A12": 0.9924999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.2795079792936022e-06,
+          "whether_significant": true,
+          "A12": 0.945,
+          "scaled_A12": 0.8899999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.6412868800861757,
+          "whether_significant": false,
+          "A12": 0.54375,
+          "scaled_A12": 0.08749999999999991,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.27797212419520934,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.6010213007017213,
+          "whether_significant": false,
+          "A12": 0.54875,
+          "scaled_A12": 0.09749999999999992,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.7128336028879073,
+          "whether_significant": false,
+          "A12": 0.535,
+          "scaled_A12": 0.07000000000000006,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.039588686369862e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 3.4762288408706505e-07,
+          "whether_significant": true,
+          "A12": 0.97,
+          "scaled_A12": 0.94,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v2": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.8467546962676097,
+          "whether_significant": false,
+          "A12": 0.48125,
+          "scaled_A12": -0.03749999999999998,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.6389685088098811,
+          "whether_significant": false,
+          "A12": 0.54375,
+          "scaled_A12": 0.08749999999999991,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.3825095874742458,
+          "whether_significant": false,
+          "A12": 0.57875,
+          "scaled_A12": 0.15749999999999997,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.6136130855940977,
+          "whether_significant": false,
+          "A12": 0.5475,
+          "scaled_A12": 0.09499999999999997,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.6715983629343628,
+          "whether_significant": false,
+          "A12": 0.54,
+          "scaled_A12": 0.08000000000000007,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 4.558365079685955e-06,
+          "whether_significant": true,
+          "A12": 0.92125,
+          "scaled_A12": 0.8425,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.501125197502421e-07,
+          "whether_significant": true,
+          "A12": 0.9825,
+          "scaled_A12": 0.9650000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.028238915147726557,
+          "whether_significant": true,
+          "A12": 0.29875,
+          "scaled_A12": -0.40249999999999997,
+          "which_better": "STFQ",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.8697174513587227,
+          "whether_significant": false,
+          "A12": 0.48375,
+          "scaled_A12": -0.03249999999999997,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.03248583969655379,
+          "whether_significant": true,
+          "A12": 0.69625,
+          "scaled_A12": 0.39250000000000007,
+          "which_better": "DOSS",
+          "maginitude": "(M)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.9454675542116135,
+          "whether_significant": false,
+          "A12": 0.5075,
+          "scaled_A12": 0.014999999999999902,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.7103836292653534,
+          "whether_significant": false,
+          "A12": 0.465,
+          "scaled_A12": -0.06999999999999995,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0901938419529375e-07,
+          "whether_significant": true,
+          "A12": 0.99,
+          "scaled_A12": 0.98,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 6.997559305976578e-08,
+          "whether_significant": true,
+          "A12": 0.9975,
+          "scaled_A12": 0.9950000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.9668563773583598,
+          "whether_significant": false,
+          "A12": 0.505,
+          "scaled_A12": 0.010000000000000009,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.988977994973882,
+          "whether_significant": false,
+          "A12": 0.5025,
+          "scaled_A12": 0.004999999999999893,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.955902815631031,
+          "whether_significant": false,
+          "A12": 0.49375,
+          "scaled_A12": -0.012499999999999956,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.3528727824574335,
+          "whether_significant": false,
+          "A12": 0.58625,
+          "scaled_A12": 0.1725000000000001,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.052783217298327495,
+          "whether_significant": false,
+          "A12": 0.3225,
+          "scaled_A12": -0.355,
+          "which_better": "CrsEnt",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.4323901426031475e-07,
+          "whether_significant": true,
+          "A12": 0.98375,
+          "scaled_A12": 0.9675,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.547696184836941e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v3": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 2.564931260259269e-07,
+          "whether_significant": true,
+          "A12": 0.95,
+          "scaled_A12": 0.8999999999999999,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.00016786554911990193,
+          "whether_significant": true,
+          "A12": 0.81625,
+          "scaled_A12": 0.6325000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.004170406749839498,
+          "whether_significant": true,
+          "A12": 0.27,
+          "scaled_A12": -0.45999999999999996,
+          "which_better": "STSQ",
+          "maginitude": "(M)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.00267750070328605,
+          "whether_significant": true,
+          "A12": 0.235,
+          "scaled_A12": -0.53,
+          "which_better": "ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.0003116446056656895,
+          "whether_significant": true,
+          "A12": 0.81,
+          "scaled_A12": 0.6200000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.7636779770403506e-05,
+          "whether_significant": true,
+          "A12": 0.175,
+          "scaled_A12": -0.65,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.009409864199244939,
+          "whether_significant": true,
+          "A12": 0.65,
+          "scaled_A12": 0.30000000000000004,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.04038393656394326,
+          "whether_significant": true,
+          "A12": 0.62625,
+          "scaled_A12": 0.25249999999999995,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 4.736085495265857e-05,
+          "whether_significant": true,
+          "A12": 0.155,
+          "scaled_A12": -0.69,
+          "which_better": "ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.145514650072137e-08,
+          "whether_significant": true,
+          "A12": 0.95875,
+          "scaled_A12": 0.9175,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 7.97385892818994e-06,
+          "whether_significant": true,
+          "A12": 0.11125,
+          "scaled_A12": -0.7775,
+          "which_better": "ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.796031859121337e-08,
+          "whether_significant": true,
+          "A12": 0.975,
+          "scaled_A12": 0.95,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v4": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.73178254842645,
+          "whether_significant": false,
+          "A12": 0.5325,
+          "scaled_A12": 0.06499999999999995,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.7741416337747654,
+          "whether_significant": false,
+          "A12": 0.4725,
+          "scaled_A12": -0.05500000000000005,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.37827962386404546,
+          "whether_significant": false,
+          "A12": 0.41875,
+          "scaled_A12": -0.16249999999999998,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.25028196575409467,
+          "whether_significant": false,
+          "A12": 0.39375,
+          "scaled_A12": -0.21250000000000002,
+          "which_better": "ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.5647308224960852,
+          "whether_significant": false,
+          "A12": 0.44625,
+          "scaled_A12": -0.10750000000000004,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.343905243345027e-07,
+          "whether_significant": true,
+          "A12": 0.98625,
+          "scaled_A12": 0.9724999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.0033340570958342534,
+          "whether_significant": true,
+          "A12": 0.23,
+          "scaled_A12": -0.54,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.35913188549484754,
+          "whether_significant": false,
+          "A12": 0.41625,
+          "scaled_A12": -0.16749999999999998,
+          "which_better": "STFQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.5394400485672892,
+          "whether_significant": false,
+          "A12": 0.55625,
+          "scaled_A12": 0.11250000000000004,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.1461614274975946,
+          "whether_significant": false,
+          "A12": 0.6325,
+          "scaled_A12": 0.2649999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.6908996315020358,
+          "whether_significant": false,
+          "A12": 0.4625,
+          "scaled_A12": -0.07499999999999996,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.41571205291936186,
+          "whether_significant": false,
+          "A12": 0.57375,
+          "scaled_A12": 0.14749999999999996,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 5.4837617192065586e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.00011088631321102023,
+          "whether_significant": true,
+          "A12": 0.8525,
+          "scaled_A12": 0.7050000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.8195080653647331,
+          "whether_significant": false,
+          "A12": 0.52125,
+          "scaled_A12": 0.04249999999999998,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.6683465953426371,
+          "whether_significant": false,
+          "A12": 0.4625,
+          "scaled_A12": -0.07499999999999996,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.42194789903907814,
+          "whether_significant": false,
+          "A12": 0.43,
+          "scaled_A12": -0.14,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.36163899485032724,
+          "whether_significant": false,
+          "A12": 0.58375,
+          "scaled_A12": 0.16749999999999998,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.662741802632053,
+          "whether_significant": false,
+          "A12": 0.46,
+          "scaled_A12": -0.07999999999999996,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 3.888043700203727e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 3.388365027289544e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v5": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.26628740470497614,
+          "whether_significant": false,
+          "A12": 0.6025,
+          "scaled_A12": 0.20500000000000007,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.6708096504759147,
+          "whether_significant": false,
+          "A12": 0.54,
+          "scaled_A12": 0.08000000000000007,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.6305864439810456,
+          "whether_significant": false,
+          "A12": 0.455,
+          "scaled_A12": -0.08999999999999997,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.5052600411986156,
+          "whether_significant": false,
+          "A12": 0.4375,
+          "scaled_A12": -0.125,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.3677850615354241,
+          "whether_significant": false,
+          "A12": 0.41625,
+          "scaled_A12": -0.16749999999999998,
+          "which_better": "CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.6504921606004924e-07,
+          "whether_significant": true,
+          "A12": 0.98375,
+          "scaled_A12": 0.9675,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 2.2793455124784185e-06,
+          "whether_significant": true,
+          "A12": 0.93625,
+          "scaled_A12": 0.8725,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.4210545528973698,
+          "whether_significant": false,
+          "A12": 0.42625,
+          "scaled_A12": -0.14749999999999996,
+          "which_better": "STFQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.9232401809284843,
+          "whether_significant": false,
+          "A12": 0.51,
+          "scaled_A12": 0.020000000000000018,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.37550420349360913,
+          "whether_significant": false,
+          "A12": 0.58125,
+          "scaled_A12": 0.1625000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.39842626963240635,
+          "whether_significant": false,
+          "A12": 0.42125,
+          "scaled_A12": -0.15749999999999997,
+          "which_better": "ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.49875,
+          "scaled_A12": -0.0024999999999999467,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.665414609604582e-08,
+          "whether_significant": true,
+          "A12": 0.99875,
+          "scaled_A12": 0.9975,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 6.170534661891299e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.45492019840128595,
+          "whether_significant": false,
+          "A12": 0.5675,
+          "scaled_A12": 0.135,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.15016182028394115,
+          "whether_significant": false,
+          "A12": 0.62875,
+          "scaled_A12": 0.25750000000000006,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.5807953263377498,
+          "whether_significant": false,
+          "A12": 0.55,
+          "scaled_A12": 0.10000000000000009,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.45229020739007164,
+          "whether_significant": false,
+          "A12": 0.43,
+          "scaled_A12": -0.14,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.7850362061475381,
+          "whether_significant": false,
+          "A12": 0.52625,
+          "scaled_A12": 0.05249999999999999,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 4.887646658441662e-08,
+          "whether_significant": true,
+          "A12": 0.99875,
+          "scaled_A12": 0.9975,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.716104956148789e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    }
+  },
+  "QFT": {
+    "v1": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 2.2756291392179337e-05,
+          "whether_significant": true,
+          "A12": 0.825,
+          "scaled_A12": 0.6499999999999999,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 2.2756291392179337e-05,
+          "whether_significant": true,
+          "A12": 0.825,
+          "scaled_A12": 0.6499999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.12319519742792431,
+          "whether_significant": false,
+          "A12": 0.625,
+          "scaled_A12": 0.25,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.5737039503791306,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.47928986588392e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.5562972716399388e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.0003907246094670183,
+          "whether_significant": true,
+          "A12": 0.8,
+          "scaled_A12": 0.6000000000000001,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.04276164226751768,
+          "whether_significant": true,
+          "A12": 0.625,
+          "scaled_A12": 0.25,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.534768675486271e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 3.842838967373827e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.8404770507935174e-05,
+          "whether_significant": true,
+          "A12": 0.85,
+          "scaled_A12": 0.7,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 5.9614259336929775e-05,
+          "whether_significant": true,
+          "A12": 0.8,
+          "scaled_A12": 0.6000000000000001,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.689407626551652e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.740564275095845e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v2": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.00038543872290986076,
+          "whether_significant": true,
+          "A12": 0.75,
+          "scaled_A12": 0.5,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.00038543872290986076,
+          "whether_significant": true,
+          "A12": 0.75,
+          "scaled_A12": 0.5,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.7667999536268734,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.957026713355678e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 2.0797083266038812e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.5627829592284715,
+          "whether_significant": false,
+          "A12": 0.55,
+          "scaled_A12": 0.10000000000000009,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.3091565906302032,
+          "whether_significant": false,
+          "A12": 0.575,
+          "scaled_A12": 0.1499999999999999,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.520864937029625e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.974329434718099e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.20933634358875108,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.3091565906302032,
+          "whether_significant": false,
+          "A12": 0.575,
+          "scaled_A12": 0.1499999999999999,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.328582858487319e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.974329434718099e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v3": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.07580017458236125,
+          "whether_significant": false,
+          "A12": 0.62875,
+          "scaled_A12": 0.25750000000000006,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.009087467452439203,
+          "whether_significant": true,
+          "A12": 0.67625,
+          "scaled_A12": 0.35250000000000004,
+          "which_better": "DOSS",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.3101953691233854,
+          "whether_significant": false,
+          "A12": 0.55,
+          "scaled_A12": 0.10000000000000009,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.12291547475997437,
+          "whether_significant": false,
+          "A12": 0.625,
+          "scaled_A12": 0.25,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.7432283285441836,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.032989589591479e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 8.457915856548705e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.12543972649272206,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.437918340567254e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.474284246331914e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.12298541760040964,
+          "whether_significant": false,
+          "A12": 0.375,
+          "scaled_A12": -0.25,
+          "which_better": "ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.1863428167630461,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.355782492121661e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 6.394756908492016e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v4": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 2.188692926450031e-05,
+          "whether_significant": true,
+          "A12": 0.825,
+          "scaled_A12": 0.6499999999999999,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 2.188692926450031e-05,
+          "whether_significant": true,
+          "A12": 0.825,
+          "scaled_A12": 0.6499999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.003586363987667175,
+          "whether_significant": true,
+          "A12": 0.725,
+          "scaled_A12": 0.44999999999999996,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(M)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.020987948413417182,
+          "whether_significant": true,
+          "A12": 0.65,
+          "scaled_A12": 0.30000000000000004,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.9830020421106055e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 4.474284246331914e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 9.351507079131185e-08,
+          "whether_significant": true,
+          "A12": 0.95,
+          "scaled_A12": 0.8999999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.019450444016954928,
+          "whether_significant": true,
+          "A12": 0.625,
+          "scaled_A12": 0.25,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.996021883219048e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 2.578045952721565e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 6.671083477919307e-06,
+          "whether_significant": true,
+          "A12": 0.875,
+          "scaled_A12": 0.75,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.0003935558980722365,
+          "whether_significant": true,
+          "A12": 0.75,
+          "scaled_A12": 0.5,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.355782492121661e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.6861160979193845e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    },
+    "v5": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.00037577303890110357,
+          "whether_significant": true,
+          "A12": 0.75,
+          "scaled_A12": 0.5,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.00037577303890110357,
+          "whether_significant": true,
+          "A12": 0.75,
+          "scaled_A12": 0.5,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 9.074083087187072e-08,
+          "whether_significant": true,
+          "A12": 0.95,
+          "scaled_A12": 0.8999999999999999,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.039816730088672536,
+          "whether_significant": true,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.764923530008054e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 2.0445310463986584e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 6.931136985915496e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.009409864199244939,
+          "whether_significant": true,
+          "A12": 0.65,
+          "scaled_A12": 0.30000000000000004,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 6.931136985915496e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 3.199671103214705e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 2.718038419231141e-08,
+          "whether_significant": true,
+          "A12": 0.975,
+          "scaled_A12": 0.95,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(L)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.00015154048675813527,
+          "whether_significant": true,
+          "A12": 0.775,
+          "scaled_A12": 0.55,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.234083921134779e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 5.462401546157372e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        }
+      }
+    }
+  },
+  "WA": {
+    "v1": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.6664989061398838,
+          "whether_significant": false,
+          "A12": 0.4625,
+          "scaled_A12": -0.07499999999999996,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.00036546426602621264,
+          "whether_significant": true,
+          "A12": 0.75,
+          "scaled_A12": 0.5,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.00015136327075250332,
+          "whether_significant": true,
+          "A12": 0.775,
+          "scaled_A12": 0.55,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v2": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.1454496107241982,
+          "whether_significant": false,
+          "A12": 0.61875,
+          "scaled_A12": 0.23750000000000004,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.0001450856767696889,
+          "whether_significant": true,
+          "A12": 0.775,
+          "scaled_A12": 0.55,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.019764028939063392,
+          "whether_significant": true,
+          "A12": 0.625,
+          "scaled_A12": 0.25,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "STSQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v3": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.00036531729699005845,
+          "whether_significant": true,
+          "A12": 0.8225,
+          "scaled_A12": 0.645,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 2.4401430816277514e-08,
+          "whether_significant": true,
+          "A12": 0.975,
+          "scaled_A12": 0.95,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 2.3927133584134656e-05,
+          "whether_significant": true,
+          "A12": 0.825,
+          "scaled_A12": 0.6499999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.015886081515442557,
+          "whether_significant": true,
+          "A12": 0.28,
+          "scaled_A12": -0.43999999999999995,
+          "which_better": "ChiTest",
+          "maginitude": "(M)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 7.247517374652709e-09,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.08035854543106315,
+          "whether_significant": false,
+          "A12": 0.575,
+          "scaled_A12": 0.1499999999999999,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.08035854543106315,
+          "whether_significant": false,
+          "A12": 0.575,
+          "scaled_A12": 0.1499999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.08415196839164857,
+          "whether_significant": false,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "STFQ",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v4": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.0008178602995464852,
+          "whether_significant": true,
+          "A12": 0.7625,
+          "scaled_A12": 0.5249999999999999,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 6.16965565410825e-05,
+          "whether_significant": true,
+          "A12": 0.8,
+          "scaled_A12": 0.6000000000000001,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.1624486736568368,
+          "whether_significant": false,
+          "A12": 0.55,
+          "scaled_A12": 0.10000000000000009,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    },
+    "v5": {
+      "5": {
+        "STSQ_vs_STFQ": {
+          "p_value": 2.4895410589544418e-05,
+          "whether_significant": true,
+          "A12": 0.885,
+          "scaled_A12": 0.77,
+          "which_better": "STSQ",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 8.101892586226604e-08,
+          "whether_significant": true,
+          "A12": 0.99125,
+          "scaled_A12": 0.9824999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 2.8936370508419796e-06,
+          "whether_significant": true,
+          "A12": 0.92375,
+          "scaled_A12": 0.8474999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.9126156591832459,
+          "whether_significant": false,
+          "A12": 0.48875,
+          "scaled_A12": -0.022499999999999964,
+          "which_better": "ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.5610528905845154,
+          "whether_significant": false,
+          "A12": 0.45,
+          "scaled_A12": -0.09999999999999998,
+          "which_better": "CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 4.800424400123953e-08,
+          "whether_significant": true,
+          "A12": 1.0,
+          "scaled_A12": 1.0,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.976553340945774,
+          "whether_significant": false,
+          "A12": 0.50375,
+          "scaled_A12": 0.007500000000000062,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        }
+      },
+      "10": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.020034607387518333,
+          "whether_significant": true,
+          "A12": 0.7025,
+          "scaled_A12": 0.405,
+          "which_better": "STSQ",
+          "maginitude": "(M)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 2.996178195630924e-05,
+          "whether_significant": true,
+          "A12": 0.835,
+          "scaled_A12": 0.6699999999999999,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.008764995800523348,
+          "whether_significant": true,
+          "A12": 0.6775,
+          "scaled_A12": 0.355,
+          "which_better": "DOSS",
+          "maginitude": "(M)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.9431012391167122,
+          "whether_significant": false,
+          "A12": 0.5075,
+          "scaled_A12": 0.014999999999999902,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(N)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.525,
+          "scaled_A12": 0.050000000000000044,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 3.2082945946816634e-05,
+          "whether_significant": true,
+          "A12": 0.8325,
+          "scaled_A12": 0.665,
+          "which_better": "DOSS",
+          "maginitude": "(L)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 0.34211225261696365,
+          "whether_significant": false,
+          "A12": 0.475,
+          "scaled_A12": -0.050000000000000044,
+          "which_better": "DMSQ-CrsEnt",
+          "maginitude": "(N)"
+        }
+      },
+      "15": {
+        "STSQ_vs_STFQ": {
+          "p_value": 0.19724838762573194,
+          "whether_significant": false,
+          "A12": 0.58,
+          "scaled_A12": 0.15999999999999992,
+          "which_better": "STSQ",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STFQ": {
+          "p_value": 0.01971162829202286,
+          "whether_significant": true,
+          "A12": 0.625,
+          "scaled_A12": 0.25,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_STSQ": {
+          "p_value": 0.1624486736568368,
+          "whether_significant": false,
+          "A12": 0.55,
+          "scaled_A12": 0.10000000000000009,
+          "which_better": "DOSS",
+          "maginitude": "(N)"
+        },
+        "DMSQ-ChiTest_vs_ChiTest": {
+          "p_value": 0.2727772649567479,
+          "whether_significant": false,
+          "A12": 0.58,
+          "scaled_A12": 0.15999999999999992,
+          "which_better": "DMSQ-ChiTest",
+          "maginitude": "(S)"
+        },
+        "DMSQ-CrsEnt_vs_CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        },
+        "DOSS_vs_DMSQ-ChiTest": {
+          "p_value": 0.039816730088672536,
+          "whether_significant": true,
+          "A12": 0.6,
+          "scaled_A12": 0.19999999999999996,
+          "which_better": "DOSS",
+          "maginitude": "(S)"
+        },
+        "DOSS_vs_DMSQ-CrsEnt": {
+          "p_value": 1.0,
+          "whether_significant": false,
+          "A12": 0.5,
+          "scaled_A12": 0.0,
+          "which_better": "TIE!",
+          "maginitude": "(N)"
+        }
+      }
+    }
+  }
+}
