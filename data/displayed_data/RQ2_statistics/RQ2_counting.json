@@ -1,0 +1,142 @@
+{
+  "STSQ_vs_STFQ": {
+    "5": {
+      "#_of_(p-value<=0.05)": 14,
+      "#_of_(scaled_a12>0_and_(S))": 5,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 13
+    },
+    "10": {
+      "#_of_(p-value<=0.05)": 6,
+      "#_of_(scaled_a12>0_and_(S))": 2,
+      "#_of_(scaled_a12>0_and_(M))": 3,
+      "#_of_(scaled_a12>0_and_(L))": 1
+    },
+    "15": {
+      "#_of_(p-value<=0.05)": 2,
+      "#_of_(scaled_a12>0_and_(S))": 4,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 1
+    }
+  },
+  "DOSS_vs_STFQ": {
+    "5": {
+      "#_of_(p-value<=0.05)": 19,
+      "#_of_(scaled_a12>0_and_(S))": 1,
+      "#_of_(scaled_a12>0_and_(M))": 2,
+      "#_of_(scaled_a12>0_and_(L))": 17
+    },
+    "10": {
+      "#_of_(p-value<=0.05)": 7,
+      "#_of_(scaled_a12>0_and_(S))": 2,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 5
+    },
+    "15": {
+      "#_of_(p-value<=0.05)": 5,
+      "#_of_(scaled_a12>0_and_(S))": 7,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 2
+    }
+  },
+  "DOSS_vs_STSQ": {
+    "5": {
+      "#_of_(p-value<=0.05)": 8,
+      "#_of_(scaled_a12>0_and_(S))": 4,
+      "#_of_(scaled_a12>0_and_(M))": 0,
+      "#_of_(scaled_a12>0_and_(L))": 6
+    },
+    "10": {
+      "#_of_(p-value<=0.05)": 5,
+      "#_of_(scaled_a12>0_and_(S))": 3,
+      "#_of_(scaled_a12>0_and_(M))": 2,
+      "#_of_(scaled_a12>0_and_(L))": 3
+    },
+    "15": {
+      "#_of_(p-value<=0.05)": 1,
+      "#_of_(scaled_a12>0_and_(S))": 3,
+      "#_of_(scaled_a12>0_and_(M))": 0,
+      "#_of_(scaled_a12>0_and_(L))": 1
+    }
+  },
+  "DMSQ-ChiTest_vs_ChiTest": {
+    "5": {
+      "#_of_(p-value<=0.05)": 7,
+      "#_of_(scaled_a12>0_and_(S))": 4,
+      "#_of_(scaled_a12>0_and_(M))": 2,
+      "#_of_(scaled_a12>0_and_(L))": 2
+    },
+    "10": {
+      "#_of_(p-value<=0.05)": 6,
+      "#_of_(scaled_a12>0_and_(S))": 3,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 4
+    },
+    "15": {
+      "#_of_(p-value<=0.05)": 8,
+      "#_of_(scaled_a12>0_and_(S))": 6,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 5
+    }
+  },
+  "DMSQ-CrsEnt_vs_CrsEnt": {
+    "5": {
+      "#_of_(p-value<=0.05)": 6,
+      "#_of_(scaled_a12>0_and_(S))": 3,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 2
+    },
+    "10": {
+      "#_of_(p-value<=0.05)": 5,
+      "#_of_(scaled_a12>0_and_(S))": 8,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 2
+    },
+    "15": {
+      "#_of_(p-value<=0.05)": 6,
+      "#_of_(scaled_a12>0_and_(S))": 5,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 5
+    }
+  },
+  "DOSS_vs_DMSQ-ChiTest": {
+    "5": {
+      "#_of_(p-value<=0.05)": 24,
+      "#_of_(scaled_a12>0_and_(S))": 0,
+      "#_of_(scaled_a12>0_and_(M))": 0,
+      "#_of_(scaled_a12>0_and_(L))": 24
+    },
+    "10": {
+      "#_of_(p-value<=0.05)": 22,
+      "#_of_(scaled_a12>0_and_(S))": 1,
+      "#_of_(scaled_a12>0_and_(M))": 0,
+      "#_of_(scaled_a12>0_and_(L))": 22
+    },
+    "15": {
+      "#_of_(p-value<=0.05)": 23,
+      "#_of_(scaled_a12>0_and_(S))": 3,
+      "#_of_(scaled_a12>0_and_(M))": 1,
+      "#_of_(scaled_a12>0_and_(L))": 20
+    }
+  },
+  "DOSS_vs_DMSQ-CrsEnt": {
+    "5": {
+      "#_of_(p-value<=0.05)": 20,
+      "#_of_(scaled_a12>0_and_(S))": 0,
+      "#_of_(scaled_a12>0_and_(M))": 0,
+      "#_of_(scaled_a12>0_and_(L))": 18
+    },
+    "10": {
+      "#_of_(p-value<=0.05)": 19,
+      "#_of_(scaled_a12>0_and_(S))": 0,
+      "#_of_(scaled_a12>0_and_(M))": 0,
+      "#_of_(scaled_a12>0_and_(L))": 19
+    },
+    "15": {
+      "#_of_(p-value<=0.05)": 19,
+      "#_of_(scaled_a12>0_and_(S))": 0,
+      "#_of_(scaled_a12>0_and_(M))": 0,
+      "#_of_(scaled_a12>0_and_(L))": 19
+    }
+  }
+}
