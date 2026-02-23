@@ -1,8 +1,12 @@
 # DOSS
 
+![Python](https://img.shields.io/badge/Python-3.10.18-3776AB?logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-0.46.2-6929C4?logo=qiskit&logoColor=white)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18737415.svg)](https://doi.org/10.5281/zenodo.18737415)
+
 ## Description
 
-This repository incorporates the artifact involved in the manuscript '*A Dynamic Test Oracle for Quantum Programs with Separable Output States*'. 
+This repository incorporates the artifact involved in the manuscript "*A Dynamic Test Oracle for Quantum Programs with Separable Output States*". 
 
 More details will be updated if the manuscript is possibly accepted for publication. 
 
