@@ -6,9 +6,8 @@
 
 ## Description
 
-This repository incorporates the artifact involved in the manuscript "*A Dynamic Test Oracle for Quantum Programs with Separable Output States*". 
-
-More details will be updated if the manuscript is possibly accepted for publication. 
+This repository incorporates the artifact involved in the manuscript "*A Dynamic Test Oracle for Quantum Programs with Separable Output States*", which has been accepted by IEEE Transactions on Software Engineering (TSE) and will be published in the near future. The artifact includes the data and code for replicating the experiments in the paper, which are organized as follows.
+ 
 
 ## Environment
 
